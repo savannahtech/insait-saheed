@@ -19,7 +19,7 @@ This project is a Flask-based APP that allows users to submit questions and rece
 
 1. **Clone the Repository**
    ```bash
-   git clone git@github.com:swallahfx/Insait.git
+   git clone git@github.com:savannahtech/insait-saheed.git insait
    cd insait
    ```
 2. **Ensure Docker and Docker Compose Are Installed**
